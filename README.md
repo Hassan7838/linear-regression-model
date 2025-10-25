@@ -33,6 +33,11 @@ To build and evaluate a **Linear Regression model** that:
 - Created a scatter plot comparing **actual vs. predicted values**.
 - Included a reference line (*y = x*) to visualize prediction accuracy.
 
+# Dataset Information
+
+- **Dataset Source:** [Kaggle – Boston Housing Dataset](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices)
+
+
 # Tools and Libraries
 - **Python 3.x**
 - **NumPy** – for numerical operations  
