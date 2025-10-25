@@ -36,6 +36,8 @@ To build and evaluate a **Linear Regression model** that:
 # Dataset Information
 
 - **Dataset Source:** [Kaggle – Boston Housing Dataset](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices)
+- The dataset is **not uploaded** due to size constraints.  
+- You can download it directly from Kaggle and place it in your working directory.
 
 
 # Tools and Libraries
